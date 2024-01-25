@@ -1,0 +1,42 @@
+
+.container-fluid{
+    background-color:orange;
+}
+.dropdown-menu:hover{
+    background-color: antiquewhite;
+}
+.btn:hover{
+    background-color:rgb(243, 178, 80) !important;
+    color:black !important;
+}
+.img2{
+    height:400px;
+}
+.text-center{
+    background-color: black;
+    COLOR:white;
+
+}
+.card-img-top{
+    height: 250px;
+}
+.gap-3{
+    background-color: black;
+}
+.card:hover{
+    background-color:orange;
+}
+h4{
+    text-align: center;
+    background-color: orange;
+
+
+}
+footer{
+    border:1px solid orange;
+    background-color:rgb(253, 188, 124);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
